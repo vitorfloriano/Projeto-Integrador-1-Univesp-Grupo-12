@@ -1,2 +1,2 @@
 FLASK_APP=projeto_integrador.py
-FLASK_ENV=development
+FLASK_ENV=production
